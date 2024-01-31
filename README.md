@@ -1,0 +1,1 @@
+This project was one of my first projects ever create while studying at university. The final plot looks different from expected and is NOT 100% accurate to what the simulation shown in the source section of the notebook, however this project taught me a lot and might provide useful resources.
